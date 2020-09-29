@@ -23,14 +23,10 @@ cd parking
 
 pip install -r requirements.txt
 
-6. Выполнить миграции для создания БД:
-
-python manage.py migrate
-
-7. Запустить сервер:
+6. Запустить сервер:
 
 python manage.py runserver
 
-9. Открыть URL:
+7. Открыть URL:
 
 http://127.0.0.1:8000/
